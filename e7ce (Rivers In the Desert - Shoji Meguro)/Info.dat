@@ -1,0 +1,96 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Rivers In the Desert",
+  "_songSubName": "(Short Ver.)",
+  "_songAuthorName": "Shoji Meguro",
+  "_levelAuthorName": "Ab",
+  "_beatsPerMinute": 130,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 89.6538467407227,
+  "_previewDuration": 10,
+  "_songFilename": "songe.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.7.0"
+      }
+    },
+    "_contributors": [
+      {
+        "_name": "Ab (Ab#8582)",
+        "_role": "Mapper",
+        "_iconPath": "ab.png"
+      }
+    ]
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": -0.25,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_obstacleColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "_envColorRight": {
+              "r": 0.6,
+              "g": 0.6,
+              "b": 0.6
+            },
+            "_colorRight": {
+              "r": 0.365,
+              "g": 0.365,
+              "b": 0.365
+            },
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.165,
+              "b": 0.165
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": -0.349999994039536,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.165,
+              "b": 0.165
+            },
+            "_colorRight": {
+              "r": 0.365,
+              "g": 0.365,
+              "b": 0.365
+            },
+            "_envColorRight": {
+              "r": 0.6,
+              "g": 0.6,
+              "b": 0.6
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}

@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Lie -",
+  "_songSubName": "",
+  "_songAuthorName": "NF",
+  "_levelAuthorName": "PaTaYaPr0",
+  "_beatsPerMinute": 126.87000274658203,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 0,
+  "_previewDuration": 12,
+  "_songFilename": "NF - Lie (Audio).egg",
+  "_coverImageFilename": "NF-Lie.jpg",
+  "_environmentName": "TriangleEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "Hard.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": -250,
+            "_editorOldOffset": -250,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
