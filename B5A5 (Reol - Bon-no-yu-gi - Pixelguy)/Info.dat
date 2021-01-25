@@ -1,0 +1,101 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Bon-no-yu-gi",
+  "_songSubName": "",
+  "_songAuthorName": "Reol",
+  "_levelAuthorName": "Pixelguy",
+  "_beatsPerMinute": 100,
+  "_previewStartTime": 40,
+  "_previewDuration": 13,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_coverImageFilename": "cover.png",
+  "_songFilename": "song.egg",
+  "_environmentName": "DefaultEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_customData": {
+    "_editor": "ChroMapper/0.7.0"
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_colorLeft": {
+              "r": 0.794985115528107,
+              "g": 0,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.76068389415741,
+              "g": 0.599597871303558,
+              "b": 0
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.788235306739807,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 0.76068389415741,
+              "g": 0.599597871303558,
+              "b": 0
+            },
+            "_environmentRemoval": [
+              "TrackLaneRing",
+              "Buildings",
+              "FrontLights"
+            ],
+            "_suggestions": [
+              "Chroma"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "360Degree",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus360Degree.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 0.300000011920929,
+          "_customData": {
+            "_colorLeft": {
+              "r": 0.794985115528107,
+              "g": 0,
+              "b": 0
+            },
+            "_colorRight": {
+              "r": 0.76068389415741,
+              "g": 0.599597871303558,
+              "b": 0
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.788235306739807,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 0.76068389415741,
+              "g": 0.599597871303558,
+              "b": 0
+            },
+            "_suggestions": [
+              "Chroma"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

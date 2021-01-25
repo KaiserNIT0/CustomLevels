@@ -1,0 +1,61 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Air",
+  "_songSubName": "Shortened by SliceOfLife",
+  "_songAuthorName": "Mr. FijiWiji Remix",
+  "_levelAuthorName": "Gevarred",
+  "_beatsPerMinute": 126,
+  "_previewStartTime": 126,
+  "_previewDuration": 15,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_coverImageFilename": "cover.jpg",
+  "_songFilename": "Air - Anime Mix AMV.egg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 8,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Experience",
+            "_colorLeft": {
+              "r": 1,
+              "g": 0.7,
+              "b": 0.4
+            },
+            "_colorRight": {
+              "r": 0.5,
+              "g": 1,
+              "b": 1
+            },
+            "_obstacleColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [
+              "Chroma"
+            ],
+            "_requirements": [
+              "Mapping Extensions"
+            ],
+            "_editorOffset": 0
+          }
+        }
+      ]
+    }
+  ]
+}

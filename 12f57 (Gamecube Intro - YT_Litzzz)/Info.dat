@@ -1,0 +1,48 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Gamecube Intro",
+  "_songSubName": "",
+  "_songAuthorName": "Gamecube",
+  "_levelAuthorName": "YT_Litzzz",
+  "_beatsPerMinute": 120,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "MMA2": {
+        "version": "4.7.2"
+      },
+      "_lastEditedBy": "MMA2"
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 20.128520965576172,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "dududududududududududududududududududududududududududu, .. DING!",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

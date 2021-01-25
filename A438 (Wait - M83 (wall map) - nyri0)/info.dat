@@ -1,0 +1,92 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Wait",
+  "_songSubName": "",
+  "_songAuthorName": "M83",
+  "_levelAuthorName": "nyri0",
+  "_beatsPerMinute": 148,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 29.850000381469727,
+  "_previewDuration": 13,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 8,
+          "_noteJumpStartBeatOffset": 6,
+          "_customData": {
+            "_obstacleColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "_colorLeft": {
+              "r": 0.5,
+              "g": 0.5,
+              "b": 0.5
+            },
+            "_colorRight": {
+              "r": 0.3,
+              "g": 0.5,
+              "b": 0.7
+            },
+            "_difficultyLabel": "Hard (less lag)",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [
+              "Noodle Extensions"
+            ]
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 8,
+          "_noteJumpStartBeatOffset": 6,
+          "_customData": {
+            "_obstacleColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            },
+            "_colorLeft": {
+              "r": 0.5,
+              "g": 0.5,
+              "b": 0.5
+            },
+            "_colorRight": {
+              "r": 0.3,
+              "g": 0.5,
+              "b": 0.7
+            },
+            "_difficultyLabel": "Hard (original)",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [
+              "Noodle Extensions"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

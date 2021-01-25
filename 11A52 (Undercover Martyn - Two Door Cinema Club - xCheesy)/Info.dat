@@ -1,0 +1,41 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Undercover Martyn",
+  "_songSubName": "",
+  "_songAuthorName": "Two Door Cinema Club",
+  "_levelAuthorName": "xCheesy",
+  "_beatsPerMinute": 159.8699951171875,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 43,
+  "_previewDuration": 9,
+  "_songFilename": "undercover.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": -0.20000000298023224,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

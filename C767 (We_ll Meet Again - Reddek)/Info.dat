@@ -1,0 +1,70 @@
+{
+  "_version": "2.0.0",
+  "_songName": "We'll Meet Again",
+  "_songSubName": "",
+  "_songAuthorName": "TheFatRat & Laura Brehm",
+  "_levelAuthorName": "Reddek",
+  "_beatsPerMinute": 192,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "We'll Meet Again.egg",
+  "_coverImageFilename": "Cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "You're still here",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.8666667,
+              "g": 0.8666667,
+              "b": 0.8666667
+            },
+            "_colorRight": {
+              "r": 0.3254902,
+              "g": 0.7058824,
+              "b": 0.9843137
+            },
+            "_envColorLeft": {
+              "r": 0.8666667,
+              "g": 0.8666667,
+              "b": 0.8666667
+            },
+            "_envColorRight": {
+              "r": 0.3254902,
+              "g": 0.7058824,
+              "b": 0.9843137
+            },
+            "_obstacleColor": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "_requirements": [
+              "Chroma",
+              "Noodle Extensions"
+            ],
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": []
+          }
+        }
+      ]
+    }
+  ]
+}

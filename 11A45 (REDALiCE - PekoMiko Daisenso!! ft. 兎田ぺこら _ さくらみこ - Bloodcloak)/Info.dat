@@ -1,0 +1,182 @@
+{
+  "_version": "2.0.0",
+  "_songName": "PekoMiko Daisenso!!",
+  "_songSubName": "ft. Usada Pekora & Sakura Miko",
+  "_songAuthorName": "REDALiCE",
+  "_levelAuthorName": "Bloodcloak",
+  "_beatsPerMinute": 180,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 18,
+  "_previewDuration": 12,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "MMA2": {
+        "version": "4.7.2"
+      },
+      "_lastEditedBy": "MMA2"
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": -0.4000000059604645,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_colorLeft": {
+              "r": 0.9301111698150635,
+              "g": 0.10224172472953796,
+              "b": 0.15896086394786835
+            },
+            "_colorRight": {
+              "r": 0.2345505952835083,
+              "g": 0.42326775193214417,
+              "b": 0.7156937718391418
+            },
+            "_envColorLeft": {
+              "r": 0.9301111698150635,
+              "g": 0,
+              "b": 0.06372285634279251
+            },
+            "_envColorRight": {
+              "r": 0.9301111698150635,
+              "g": 0.3078874945640564,
+              "b": 0.3505169451236725
+            },
+            "_obstacleColor": {
+              "r": 0.991102397441864,
+              "g": 0.8675680160522461,
+              "b": 0.14354920387268066
+            },
+            "_envColorLeftBoost": {
+              "r": 0.03682522848248482,
+              "g": 0.303095281124115,
+              "b": 0.7156937718391418
+            },
+            "_envColorRightBoost": {
+              "r": 0.44520124793052673,
+              "g": 0.6104957461357117,
+              "b": 0.8307700753211975
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0.6000000238418579,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_colorLeft": {
+              "r": 0.9301111698150635,
+              "g": 0.10224172472953796,
+              "b": 0.15896086394786835
+            },
+            "_colorRight": {
+              "r": 0.2345505952835083,
+              "g": 0.42326775193214417,
+              "b": 0.7156937718391418
+            },
+            "_envColorLeft": {
+              "r": 0.9301111698150635,
+              "g": 0,
+              "b": 0.06372285634279251
+            },
+            "_envColorRight": {
+              "r": 0.9301111698150635,
+              "g": 0.3078874945640564,
+              "b": 0.3505169451236725
+            },
+            "_obstacleColor": {
+              "r": 0.991102397441864,
+              "g": 0.8675680160522461,
+              "b": 0.14354920387268066
+            },
+            "_envColorLeftBoost": {
+              "r": 0.03682522848248482,
+              "g": 0.303095281124115,
+              "b": 0.7156937718391418
+            },
+            "_envColorRightBoost": {
+              "r": 0.44520124793052673,
+              "g": 0.6104957461357117,
+              "b": 0.8307700753211975
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": 0.10000000149011612,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_colorLeft": {
+              "r": 0.9301111698150635,
+              "g": 0.10224172472953796,
+              "b": 0.15896086394786835
+            },
+            "_colorRight": {
+              "r": 0.2345505952835083,
+              "g": 0.42326775193214417,
+              "b": 0.7156937718391418
+            },
+            "_envColorLeft": {
+              "r": 0.9301111698150635,
+              "g": 0,
+              "b": 0.06372285634279251
+            },
+            "_envColorRight": {
+              "r": 0.9301111698150635,
+              "g": 0.3078874945640564,
+              "b": 0.3505169451236725
+            },
+            "_obstacleColor": {
+              "r": 0.991102397441864,
+              "g": 0.8675680160522461,
+              "b": 0.14354920387268066
+            },
+            "_envColorLeftBoost": {
+              "r": 0.03682522848248482,
+              "g": 0.303095281124115,
+              "b": 0.7156937718391418
+            },
+            "_envColorRightBoost": {
+              "r": 0.44520124793052673,
+              "g": 0.6104957461357117,
+              "b": 0.8307700753211975
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Hate Myself",
+  "_songSubName": "",
+  "_songAuthorName": "NF",
+  "_levelAuthorName": "Rayman9515",
+  "_beatsPerMinute": 120,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 75,
+  "_previewDuration": 10,
+  "_songFilename": "Hate Myself.egg",
+  "_coverImageFilename": "Hate Myself.png",
+  "_environmentName": "TriangleEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_colorLeft": {
+              "r": 0.459346503019333,
+              "g": 0.69421923160553,
+              "b": 0.959706485271454
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.107740245759487,
+              "b": 0.844841837882996
+            },
+            "_envColorLeft": {
+              "r": 0.0330452546477318,
+              "g": 0.131121441721916,
+              "b": 0.802106738090515
+            },
+            "_envColorRight": {
+              "r": 0.124281235039234,
+              "g": 0.763224363327026,
+              "b": 0.685863554477692
+            },
+            "_obstacleColor": {
+              "r": 0.526352763175964,
+              "g": 0.472265839576721,
+              "b": 0.810744881629944
+            }
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_colorLeft": {
+              "r": 0.459346503019333,
+              "g": 0.69421923160553,
+              "b": 0.959706485271454
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.107740245759487,
+              "b": 0.844841837882996
+            },
+            "_envColorLeft": {
+              "r": 0.0330452546477318,
+              "g": 0.131121441721916,
+              "b": 0.802106738090515
+            },
+            "_envColorRight": {
+              "r": 0.124281235039234,
+              "g": 0.763224363327026,
+              "b": 0.685863554477692
+            },
+            "_obstacleColor": {
+              "r": 0.526352763175964,
+              "g": 0.472265839576721,
+              "b": 0.810744881629944
+            }
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 13,
+          "_noteJumpStartBeatOffset": 0.300000011920929,
+          "_customData": {
+            "_colorLeft": {
+              "r": 0.459346503019333,
+              "g": 0.69421923160553,
+              "b": 0.959706485271454
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.107740245759487,
+              "b": 0.844841837882996
+            },
+            "_envColorLeft": {
+              "r": 0.0330452546477318,
+              "g": 0.131121441721916,
+              "b": 0.802106738090515
+            },
+            "_envColorRight": {
+              "r": 0.124281235039234,
+              "g": 0.763224363327026,
+              "b": 0.685863554477692
+            },
+            "_obstacleColor": {
+              "r": 0.526352763175964,
+              "g": 0.472265839576721,
+              "b": 0.810744881629944
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": -0.100000001490116,
+          "_customData": {
+            "_colorLeft": {
+              "r": 0.459346503019333,
+              "g": 0.69421923160553,
+              "b": 0.959706485271454
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.107740245759487,
+              "b": 0.844841837882996
+            },
+            "_envColorLeft": {
+              "r": 0.0330452546477318,
+              "g": 0.131121441721916,
+              "b": 0.802106738090515
+            },
+            "_envColorRight": {
+              "r": 0.124281235039234,
+              "g": 0.763224363327026,
+              "b": 0.685863554477692
+            },
+            "_obstacleColor": {
+              "r": 0.526352763175964,
+              "g": 0.472265839576721,
+              "b": 0.810744881629944
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": -0.400000005960464,
+          "_customData": {
+            "_colorLeft": {
+              "r": 0.459346503019333,
+              "g": 0.69421923160553,
+              "b": 0.959706485271454
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.107740245759487,
+              "b": 0.844841837882996
+            },
+            "_envColorLeft": {
+              "r": 0.0330452546477318,
+              "g": 0.131121441721916,
+              "b": 0.802106738090515
+            },
+            "_envColorRight": {
+              "r": 0.124281235039234,
+              "g": 0.763224363327026,
+              "b": 0.685863554477692
+            },
+            "_obstacleColor": {
+              "r": 0.52549022436142,
+              "g": 0.470588237047195,
+              "b": 0.807843148708344
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}

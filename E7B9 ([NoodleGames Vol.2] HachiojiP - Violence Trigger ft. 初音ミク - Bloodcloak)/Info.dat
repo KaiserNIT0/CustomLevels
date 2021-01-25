@@ -1,0 +1,149 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Violence Trigger",
+  "_songSubName": "ft. Hatsune Miku",
+  "_songAuthorName": "HachiojiP",
+  "_levelAuthorName": "Bloodcloak",
+  "_beatsPerMinute": 196,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 47,
+  "_previewDuration": 13,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "PanicEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0.8999999761581421,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_difficultyLabel": "Pain (E)",
+            "_colorLeft": {
+              "r": 0.78515625,
+              "g": 0.421875,
+              "b": 0.4921875
+            },
+            "_colorRight": {
+              "r": 0.91015625,
+              "g": 0.8046875,
+              "b": 0.82421875
+            },
+            "_envColorLeft": {
+              "r": 0.86328125,
+              "g": 0.1171875,
+              "b": 0.3828125
+            },
+            "_envColorRight": {
+              "r": 0.98828125,
+              "g": 0.63671875,
+              "b": 0.75390625
+            },
+            "_obstacleColor": {
+              "r": 0.6640625,
+              "g": 0.64453125,
+              "b": 0.66796875
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 0.699999988079071,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_difficultyLabel": "Violence (E+)",
+            "_colorLeft": {
+              "r": 0.78515625,
+              "g": 0.421875,
+              "b": 0.4921875
+            },
+            "_colorRight": {
+              "r": 0.91015625,
+              "g": 0.8046875,
+              "b": 0.82421875
+            },
+            "_envColorLeft": {
+              "r": 0.86328125,
+              "g": 0.1171875,
+              "b": 0.3828125
+            },
+            "_envColorRight": {
+              "r": 0.98828125,
+              "g": 0.63671875,
+              "b": 0.75390625
+            },
+            "_obstacleColor": {
+              "r": 0.6640625,
+              "g": 0.64453125,
+              "b": 0.66796875
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": 0.30000001192092896,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_difficultyLabel": "Destruction (E++)",
+            "_colorLeft": {
+              "r": 0.78515625,
+              "g": 0.421875,
+              "b": 0.4921875
+            },
+            "_colorRight": {
+              "r": 0.91015625,
+              "g": 0.8046875,
+              "b": 0.82421875
+            },
+            "_envColorLeft": {
+              "r": 0.86328125,
+              "g": 0.1171875,
+              "b": 0.3828125
+            },
+            "_envColorRight": {
+              "r": 0.98828125,
+              "g": 0.63671875,
+              "b": 0.75390625
+            },
+            "_obstacleColor": {
+              "r": 0.6640625,
+              "g": 0.64453125,
+              "b": 0.66796875
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

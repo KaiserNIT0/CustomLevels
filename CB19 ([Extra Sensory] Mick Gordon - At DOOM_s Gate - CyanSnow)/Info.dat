@@ -1,0 +1,108 @@
+{
+  "_version": "2.0.0",
+  "_songName": "At DOOM's Gate",
+  "_songSubName": "",
+  "_songAuthorName": "Mick Gordon",
+  "_levelAuthorName": "CyanSnow",
+  "_beatsPerMinute": 161,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "hell.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "DragonsEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapper",
+        "_name": "CyanSnow",
+        "_iconPath": "cyan.png"
+      },
+      {
+        "_role": "Modder",
+        "_name": "Aeroluna",
+        "_iconPath": "bird.png"
+      },
+      {
+        "_role": "Modder",
+        "_name": "Reaxt",
+        "_iconPath": "reaxt.png"
+      },
+      {
+        "_role": "Modder",
+        "_name": "Arti",
+        "_iconPath": "arti.jpg"
+      }
+    ]
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "hell.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Hell",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [
+              "Noodle Extensions",
+              "Chroma"
+            ],
+            "_environmentRemoval": [
+              "TrackLaneRing",
+              "Spectrograms",
+              "PlayersPlace",
+              "BoxLight",
+              "Underground",
+              "TrackMirror",
+              "TrackConstruction",
+              "TopConstruction",
+              "HallConstruction",
+              "FloorGround",
+              "BigTrackLaneRing",
+              "PanelsTrackLaneRing",
+              "FrontLights",
+              "DragonsSidePSL",
+              "DragonsSidePSR"
+            ],
+            "_colorLeft": {
+              "r": 0.666,
+              "g": 0.05,
+              "b": 0.05
+            },
+            "_colorRight": {
+              "r": 0.85,
+              "g": 0.5,
+              "b": 0
+            },
+            "_obstacleColor": {
+              "r": 1,
+              "g": 0,
+              "b": 0
+            },
+            "_envColorLeft": {
+              "r": 0.666,
+              "g": 0.05,
+              "b": 0.05
+            },
+            "_envColorRight": {
+              "r": 0.85,
+              "g": 0.5,
+              "b": 0
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

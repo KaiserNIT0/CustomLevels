@@ -1,0 +1,67 @@
+{
+  "_version": "2.0.0",
+  "_songName": "ANALYS",
+  "_songSubName": "",
+  "_songAuthorName": "HAYAKO",
+  "_levelAuthorName": "Reaxt",
+  "_beatsPerMinute": 170,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 15.5,
+  "_previewDuration": 10,
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "NiceEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapper, Lighter, Effects",
+        "_name": "Reaxt",
+        "_iconPath": "reaxt.png"
+      },
+      {
+        "_role": "Inspiration",
+        "_name": "FMS_Cat",
+        "_iconPath": "fmscat.jpg"
+      },
+      {
+        "_role": "Testplayer",
+        "_name": "CyanSnow",
+        "_iconPath": "cyansnow.png"
+      }
+    ]
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "We are back.",
+            "_requirements": [
+              "Noodle Extensions",
+              "Chroma"
+            ],
+            "_colorLeft": {
+              "r": 0.7843,
+              "g": 0.0784,
+              "b": 0.0784
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.4627,
+              "b": 0.8235
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "_songFilename": "analys.egg",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}
